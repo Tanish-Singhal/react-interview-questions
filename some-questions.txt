@@ -1,0 +1,13 @@
+Q1) what does CRA do?
+=> it will gives us a dummy application for us. In this the package will give us bundlers, test file for testing, etc.
+it will be a ready to go live type of application, in which we just start writing our code.
+in this we do not need to worry about the packaging of the content. 
+
+Q2) what is packaging of the content?
+=> when we develop a website it has so many files, like css file, component files, etc. and to see the website while developing we have to run that onto a server, it help us to host our website onto a  local server and help to create a build.
+
+Q3) how it create build ?
+=> it do with the help of bundlers. CRA has a bundler called webpack and Vite has a bundler name Rollup. It jobs is to quickly compile our code and run it on the local server and by some certain commands we can also build this project.
+
+Q4) what is node modules ?
+=> It is a folder which has all the dependecies of our project. While creating a javascript application, it needs help from lots of javascript packages.
